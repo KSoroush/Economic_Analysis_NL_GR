@@ -13,6 +13,13 @@ The dictionary "series" in json file which contains "period" and "values."
 
 
 
+
+
+
+
+
+
 The final graph:
+
 ![2](https://user-images.githubusercontent.com/121558433/213943420-829bc3e5-0b80-45e1-851e-407df2e457b3.PNG)
 
