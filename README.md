@@ -5,3 +5,4 @@ DB nomics is a world economic database the API of which runs at https://api.nomi
 
 For more information regarding the DB nomics, please visit https://db.nomics.world/
 
+![1](https://user-images.githubusercontent.com/121558433/213943314-1e9a4fb2-502b-4765-bc29-cf49dfea3e96.PNG)
